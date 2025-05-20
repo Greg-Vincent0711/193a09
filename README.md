@@ -1,6 +1,6 @@
 # frontendchallengeserver
 
-# Starting the sever
+# Starting the server
 
 Run:
 
